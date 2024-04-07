@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import TelegramBot from 'node-telegram-bot-api';
 import * as process from 'process';
 
